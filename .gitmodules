@@ -1,3 +1,24 @@
 [submodule "Multi-robotNavigationROS2#163/ros2_ws/src/tb3_multirobot_ros2"]
 	path = "Multi-robotNavigationROS2#163/ros2_ws/src/tb3_multirobot_ros2"
 	url = git@bitbucket.org:theconstructcore/tb3_multirobot_ros2.git
+[submodule "BehaviorTreesROS2#162/ros2_ws/src/turtlebot3/turtlebot3_simulations"]
+	path = "BehaviorTreesROS2#162/ros2_ws/src/turtlebot3/turtlebot3_simulations"
+	url = https://github.com/ROBOTIS-GIT/turtlebot3_simulations.git
+[submodule "BehaviorTreesROS2#162/ros2_ws/src/turtlebot3/turtlebot3"]
+	path = "BehaviorTreesROS2#162/ros2_ws/src/turtlebot3/turtlebot3"
+	url = https://github.com/ROBOTIS-GIT/turtlebot3.git
+[submodule "BehaviorTreesROS2#162/ros2_ws/src/turtlebot3/turtlebot3_msgs"]
+	path = "BehaviorTreesROS2#162/ros2_ws/src/turtlebot3/turtlebot3_msgs"
+	url = https://github.com/ROBOTIS-GIT/turtlebot3_msgs.git
+[submodule "BehaviorTreesROS2#162/ros2_ws/src/utils/DynamixelSDK"]
+	path = "BehaviorTreesROS2#162/ros2_ws/src/utils/DynamixelSDK"
+	url = https://github.com/ROBOTIS-GIT/DynamixelSDK.git
+[submodule "BehaviorTreesROS2#162/ros2_ws/src/utils/hls_lfcd_lds_driver"]
+	path = "BehaviorTreesROS2#162/ros2_ws/src/utils/hls_lfcd_lds_driver"
+	url = https://github.com/ROBOTIS-GIT/hls_lfcd_lds_driver.git
+[submodule "BehaviorTreesROS2#162/ros2_ws/src/bt_course_files"]
+	path = "BehaviorTreesROS2#162/ros2_ws/src/bt_course_files"
+	url = https://bitbucket.org/theconstructcore/bt_course_files.git
+[submodule "BehaviorTreesROS2#162/ros2_ws/src/my_package"]
+	path = "BehaviorTreesROS2#162/ros2_ws/src/my_package"
+	url = git@bitbucket.org:theconstructcore/exploring-ros2-with-wheeled-robot.git
